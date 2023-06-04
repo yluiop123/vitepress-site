@@ -1,5 +1,5 @@
 module.exports = {
-  base:'/site/',
+  base:'/',
   themeConfig: {
     //sidebar: 'auto',
     nav: [{
